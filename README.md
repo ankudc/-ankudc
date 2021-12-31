@@ -1,4 +1,4 @@
-![I am harun181](https://tse1.mm.bing.net/th?id=OIP.YcUKwRGlhKLWSK5wluRB-wHaEo&pid=Api&P=0&w=248&h=156.png)
+![I am harun181](https://www.netpremacy.com/wp-content/uploads/2020/09/Machine-Learning-One-Pager-Graphic-Website-Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Roban Khan Anik</h1>
@@ -24,7 +24,6 @@ Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 
 - 📫 How to reach me **rkanik2014@gmail.com**
 
-- 📄 All About Me:[https://linktr.ee/Roban Khan Anik](https://linktr.ee/Roban Khan Anik)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
