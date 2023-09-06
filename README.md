@@ -18,7 +18,7 @@ Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankudc](https://github.com/ankudc)
 
-- 📝 I regularly write articles on [https://www.youtube.com/Tutorial plus/](https://www.youtube.com/Tution+/)
+- 📝 I regularly write articles on [https://www.youtube.com/Tutorial plus/]([https://www.youtube.com/Tution+/](https://www.youtube.com/channel/UCNwLPUe_VnQYtP2idk-PRVg))
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
